@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 ### Contact with me:
 [<img align="left" alt="Delivery-Klad | Telegram" width="30px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
