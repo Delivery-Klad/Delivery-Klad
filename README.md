@@ -10,9 +10,11 @@
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio 2019" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />][vs2019]
 [<img align="left" alt="PyCharm 2019" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
+[<img align="left" alt="Idea" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />][idea]
 [<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/unity.svg" />][unity]
 [<img align="left" alt="SteamVR" width="26px" src="https://media.discordapp.net/attachments/648271487060410388/750465523254427788/16ee060c7e7e86e5.png" />][steamVR]
 [<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][charp]
+[<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />][java]
 [<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />][cpp]
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
 [<img align="left" alt="GitKraken" width="26px" src="https://simpleicons.org/icons/gitkraken.svg" />][gitkraken]
@@ -53,11 +55,13 @@
 [discord]: https://discord.gg/6J5H3hc
 [vs2019]: https://visualstudio.microsoft.com
 [pycharm]: https://www.jetbrains.com/ru-ru/pycharm
+[idea]: https://www.jetbrains.com/ru-ru/idea
 [github]: https://github.com/Delivery-Klad
 [gitkraken]: https://www.gitkraken.com
 [unity]: https://unity.com
 [python]: https://www.python.org
 [charp]: https://docs.microsoft.com/ru-ru/dotnet/csharp
+[java]: https://www.java.com/ru/
 [mysql]: https://www.mysql.com
 [pgsql]: https://www.postgresql.org
 [sqlite]: https://www.sqlite.org
