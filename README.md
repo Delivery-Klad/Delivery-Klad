@@ -24,6 +24,7 @@
 [<img align="left" alt="MYSQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][mysql]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][pgsql]
 [<img align="left" alt="SQLite" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />][sqlite]
+[<img align="left" alt="Cassandra" width="26px" src="https://simpleicons.org/icons/apachecassandra.svg" />][cassandra]
 <br />
 <br />
 
@@ -60,5 +61,6 @@
 [mysql]: https://www.mysql.com
 [pgsql]: https://www.postgresql.org
 [sqlite]: https://www.sqlite.org
+[cassandra]: https://cassandra.apache.org
 [cpp]: https://docs.microsoft.com/ru-ru/dotnet/csharp
 [steamVR]: https://store.steampowered.com/app/250820/SteamVR
