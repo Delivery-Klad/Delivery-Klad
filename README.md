@@ -12,7 +12,7 @@
 [<img align="left" alt="PyCharm 2019" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
 [<img align="left" alt="Idea" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />][idea]
 [<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/unity.svg" />][unity]
-[<img align="left" alt="SteamVR" width="26px" src="https://media.discordapp.net/attachments/648271487060410388/750465523254427788/16ee060c7e7e86e5.png" />][steamVR]
+[<img align="left" alt="SteamVR" width="26px" src="https://media.discordapp.net/attachments/648271487060410388/790372977870504016/steamvr.png" />][steamVR]
 [<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][charp]
 [<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />][java]
 [<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />][cpp]
