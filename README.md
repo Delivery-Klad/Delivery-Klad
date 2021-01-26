@@ -6,14 +6,14 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />][vs2019]
+[<img align="left" alt="Visual Studio 2019" width="26px" src="files/visualstudio.png" />][vs2019]
 [<img align="left" alt="PyCharm 2019" width="26px" src="files/pycharm.png" />][pycharm]
 [<img align="left" alt="Idea" width="26px" src="files/idea.png" />][idea]
 [<img align="left" alt="Unity" width="26px" src="files/unity.png" />][unity]
-[<img align="left" alt="SteamVR" width="26px" src="https://media.discordapp.net/attachments/648271487060410388/790372977870504016/steamvr.png" />][steamVR]
-[<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />][charp]
+[<img align="left" alt="SteamVR" width="26px" src="files/steamvr.png" />][steamVR]
+[<img align="left" alt="C#" width="26px" src="files/csharp.png" />][charp]
 [<img align="left" alt="Java" width="26px" src="files/java.png" />][java]
-[<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />][cpp]
+[<img align="left" alt="C++" width="26px" src="files/cpp.png" />][cpp]
 [<img align="left" alt="Python" width="26px" src="files/python.png" />][python]
 [<img align="left" alt="GitKraken" width="26px" src="files/gitkraken.png" />][gitkraken]
 [<img align="left" alt="GitHub" width="26px" src="files/github.png" />][github]
