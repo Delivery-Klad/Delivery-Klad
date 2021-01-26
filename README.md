@@ -35,7 +35,7 @@
 </a>
 
 ### Stats:
-<img align="top" alt="Github Stats" src="https://readme-stats.delivery-klad.vercel.app/api?username=delivery-klad&show_icons=true&theme=deliveryklad&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="top" alt="Github Stats" src="https://readme-stats.delivery-klad.vercel.app/api?username=delivery-klad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
