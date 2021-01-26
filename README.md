@@ -21,10 +21,10 @@
 <br />
 
 ### Databases:
-[<img align="left" alt="MYSQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][mysql]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][pgsql]
-[<img align="left" alt="SQLite" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />][sqlite]
-[<img align="left" alt="Cassandra" width="26px" src="https://simpleicons.org/icons/apachecassandra.svg" />][cassandra]
+[<img align="left" alt="MYSQL" width="26px" src="files/mysql.png" />][mysql]
+[<img align="left" alt="PostgreSQL" width="26px" src="files/postgresql.png" />][pgsql]
+[<img align="left" alt="SQLite" width="26px" src="files/sqlite.png" />][sqlite]
+[<img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png" />][cassandra]
 <br />
 <br />
 
