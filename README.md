@@ -1,8 +1,8 @@
 ### Contact with me:
 [<img align="left" alt="Delivery-Klad | Telegram" width="30px" src="files/telegram.png" />][telegram]
-[<img align="left" alt="Delivery-Klad | VK" width="30px" src="https://simpleicons.org/icons/vk.svg" />][vk]
-[<img align="left" alt="Delivery-Klad | Steam" width="30px" src="https://simpleicons.org/icons/steam.svg" />][steam]
-[<img align="left" alt="Delivery-Klad | Discord" width="30px" src="https://simpleicons.org/icons/discord.svg" />][discord]
+[<img align="left" alt="Delivery-Klad | VK" width="30px" src="files/vk.png" />][vk]
+[<img align="left" alt="Delivery-Klad | Steam" width="30px" src="files/steam.png" />][steam]
+[<img align="left" alt="Delivery-Klad | Discord" width="30px" src="files/discord.png" />][discord]
 <br />
 
 ### Languages and Tools:
