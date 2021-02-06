@@ -3,34 +3,33 @@
 [<img align="left" alt="Delivery-Klad | VK" width="30px" src="files/vk.png" />][vk]
 [<img align="left" alt="Delivery-Klad | Steam" width="30px" src="files/steam.png" />][steam]
 [<img align="left" alt="Delivery-Klad | Discord" width="30px" src="files/discord.png" />][discord]
+<br />
 
 ### Languages and Tools
 [<img align="left" alt="Visual Studio 2019" width="26px" src="files/visualstudio.png" />][vs2019]
 [<img align="left" alt="PyCharm 2019" width="26px" src="files/pycharm.png" />][pycharm]
 [<img align="left" alt="Idea" width="26px" src="files/idea.png" />][idea]
 [<img align="left" alt="Unity" width="26px" src="files/unity.png" />][unity]
-    [<img align="left" alt="SteamVR" width="26px" src="files/steamvr.png" />][steamVR]
-    [<img align="left" alt="C#" width="26px" src="files/csharp.png" />][charp]
-    [<img align="left" alt="Java" width="26px" src="files/java.png" />][java]
-    [<img align="left" alt="C++" width="26px" src="files/cpp.png" />][cpp]
-    [<img align="left" alt="Python" width="26px" src="files/python.png" />][python]
-    [<img align="left" alt="GitKraken" width="26px" src="files/gitkraken.png" />][gitkraken]
-    [<img align="left" alt="GitHub" width="26px" src="files/github.png" />][github]
+[<img align="left" alt="SteamVR" width="26px" src="files/steamvr.png" />][steamVR]
+[<img align="left" alt="C#" width="26px" src="files/csharp.png" />][charp]
+[<img align="left" alt="Java" width="26px" src="files/java.png" />][java]
+[<img align="left" alt="C++" width="26px" src="files/cpp.png" />][cpp]
+[<img align="left" alt="Python" width="26px" src="files/python.png" />][python]
+[<img align="left" alt="GitKraken" width="26px" src="files/gitkraken.png" />][gitkraken]
+[<img align="left" alt="GitHub" width="26px" src="files/github.png" />][github]
 <br />
-<br />
+
 ### Databases
-<br>
-    [<img align="left" alt="MYSQL" width="26px" src="files/mysql.png" />][mysql]
-    [<img align="left" alt="PostgreSQL" width="26px" src="files/postgresql.png" />][pgsql]
-    [<img align="left" alt="SQLite" width="26px" src="files/sqlite.png" />][sqlite]
-    [<img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png" />][cassandra]
+[<img align="left" alt="MYSQL" width="26px" src="files/mysql.png" />][mysql]
+[<img align="left" alt="PostgreSQL" width="26px" src="files/postgresql.png" />][pgsql]
+[<img align="left" alt="SQLite" width="26px" src="files/sqlite.png" />][sqlite]
+[<img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png" />][cassandra]
 <br />
-<br />
+
 ### Spotify now playing
-<br>
-    <a href="https://now-playing.delivery-klad.vercel.app/now-playing?open">
-        <img src="https://now-playing.delivery-klad.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-    </a>
+<a href="https://now-playing.delivery-klad.vercel.app/now-playing?open">
+    <img src="https://now-playing.delivery-klad.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 
 <details>
 <summary>Stats</summary>
