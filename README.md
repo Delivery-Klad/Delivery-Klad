@@ -1,16 +1,12 @@
-<details open>
-    <summary>**Contact with me**</summary>
-    <br>
+### Contact with me
+<br>
     [<img align="left" alt="Delivery-Klad | Telegram" width="30px" src="files/telegram.png" />][telegram]
     [<img align="left" alt="Delivery-Klad | VK" width="30px" src="files/vk.png" />][vk]
     [<img align="left" alt="Delivery-Klad | Steam" width="30px" src="files/steam.png" />][steam]
     [<img align="left" alt="Delivery-Klad | Discord" width="30px" src="files/discord.png" />][discord]
-    <br />
-</details>
-
-<details open>
-    <summary>**Languages and Tools**</summary>
-    <br>
+<br />
+### Languages and Tools
+<br>
     [<img align="left" alt="Visual Studio 2019" width="26px" src="files/visualstudio.png" />][vs2019]
     [<img align="left" alt="PyCharm 2019" width="26px" src="files/pycharm.png" />][pycharm]
     [<img align="left" alt="Idea" width="26px" src="files/idea.png" />][idea]
@@ -22,31 +18,24 @@
     [<img align="left" alt="Python" width="26px" src="files/python.png" />][python]
     [<img align="left" alt="GitKraken" width="26px" src="files/gitkraken.png" />][gitkraken]
     [<img align="left" alt="GitHub" width="26px" src="files/github.png" />][github]
-    <br />
-    <br />
-</details>
-
-<details open>
-    <summary>**Databases**</summary>
-    <br>
+<br />
+<br />
+### Databases
+<br>
     [<img align="left" alt="MYSQL" width="26px" src="files/mysql.png" />][mysql]
     [<img align="left" alt="PostgreSQL" width="26px" src="files/postgresql.png" />][pgsql]
     [<img align="left" alt="SQLite" width="26px" src="files/sqlite.png" />][sqlite]
     [<img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png" />][cassandra]
-    <br />
-    <br />
-</details>
-    
-<details open>
-    <summary>**Spotify now playing**</summary>
-    <br>
+<br />
+<br />
+### Spotify now playing
+<br>
     <a href="https://now-playing.delivery-klad.vercel.app/now-playing?open">
         <img src="https://now-playing.delivery-klad.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
     </a>
-</details>
 
 <details>
-<summary>**Stats**</summary>
+<summary>Stats</summary>
 <br>
 <img align="top" alt="Github Stats" src="https://readme-stats.delivery-klad.vercel.app/api?username=delivery-klad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </details>
