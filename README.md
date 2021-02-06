@@ -40,7 +40,9 @@
 <details>
 <summary>Test</summary>
 <br>
-    [<img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png" />][cassandra]
+    <a href="https://cassandra.apache.org">
+        <img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png">
+    </a>
 </details>
 
 <!--
