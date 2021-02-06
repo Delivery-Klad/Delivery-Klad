@@ -35,7 +35,7 @@
 </a>
 
 <details>
-<summary>Stats</summary>
+<summary>### Stats</summary>
 <br>
 <img align="top" alt="Github Stats" src="https://readme-stats.delivery-klad.vercel.app/api?username=delivery-klad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </details>
