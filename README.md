@@ -1,16 +1,14 @@
 ### Contact with me
-<br>
 [<img align="left" alt="Delivery-Klad | Telegram" width="30px" src="files/telegram.png" />][telegram]
 [<img align="left" alt="Delivery-Klad | VK" width="30px" src="files/vk.png" />][vk]
 [<img align="left" alt="Delivery-Klad | Steam" width="30px" src="files/steam.png" />][steam]
 [<img align="left" alt="Delivery-Klad | Discord" width="30px" src="files/discord.png" />][discord]
-<br />
+
 ### Languages and Tools
-<br>
-    [<img align="left" alt="Visual Studio 2019" width="26px" src="files/visualstudio.png" />][vs2019]
-    [<img align="left" alt="PyCharm 2019" width="26px" src="files/pycharm.png" />][pycharm]
-    [<img align="left" alt="Idea" width="26px" src="files/idea.png" />][idea]
-    [<img align="left" alt="Unity" width="26px" src="files/unity.png" />][unity]
+[<img align="left" alt="Visual Studio 2019" width="26px" src="files/visualstudio.png" />][vs2019]
+[<img align="left" alt="PyCharm 2019" width="26px" src="files/pycharm.png" />][pycharm]
+[<img align="left" alt="Idea" width="26px" src="files/idea.png" />][idea]
+[<img align="left" alt="Unity" width="26px" src="files/unity.png" />][unity]
     [<img align="left" alt="SteamVR" width="26px" src="files/steamvr.png" />][steamVR]
     [<img align="left" alt="C#" width="26px" src="files/csharp.png" />][charp]
     [<img align="left" alt="Java" width="26px" src="files/java.png" />][java]
