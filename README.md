@@ -34,8 +34,12 @@
     <img src="https://now-playing.delivery-klad.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-### Stats:
+<details>
+<summary>Stats</summary>
+<br>
 <img align="top" alt="Github Stats" src="https://readme-stats.delivery-klad.vercel.app/api?username=delivery-klad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</details>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
