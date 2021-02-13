@@ -41,24 +41,6 @@
 <img src="files/loading.gif" width="40" height="40">
 </div>
 
-<html>
-    <head></head>
-    <body>
-        <div><span class="onlineuser">23</span></div>
-        <script type="text/javascript">
-            mya = true;
-            a = 0;
-            setInterval(function(){
-            if(!mya) return;
-            a++;
-            document.querySelector('.onlineuser').innerHTML = a;
-            }, 1000)
-            window.onfocus = function(){ mya = true; }
-            window.onblur = function(){ mya = false; }
-        </script>
-    </body>
-</html>
-
 <!--
 <details open>
 <summary>Test</summary>
