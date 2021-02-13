@@ -41,6 +41,13 @@
 <img src="files/loading.gif" width="40" height="40">
 </div>
 
+<html>
+    <head></head>
+    <body>
+        <div>"."</div>
+    </body>
+</html>
+
 <!--
 <details open>
 <summary>Test</summary>
