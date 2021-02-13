@@ -44,7 +44,18 @@
 <html>
     <head></head>
     <body>
-        <div>"."</div>
+        <div><span class="onlineuser">23</span></div>
+        <script type="text/javascript">
+            mya = true;
+            a = 0;
+            setInterval(function(){
+            if(!mya) return;
+            a++;
+            document.querySelector('.onlineuser').innerHTML = a;
+            }, 1000)
+            window.onfocus = function(){ mya = true; }
+            window.onblur = function(){ mya = false; }
+        </script>
     </body>
 </html>
 
