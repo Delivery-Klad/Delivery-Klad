@@ -40,7 +40,6 @@
 <div align="center">
 <img src="files/loading.gif" width="40" height="40">
 </div>
-<img align="middle" width="40px" src="files/loading.gif"/>
 <!--
 <details open>
 <summary>Test</summary>
