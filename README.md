@@ -78,5 +78,5 @@
 [pgsql]: https://www.postgresql.org
 [sqlite]: https://www.sqlite.org
 [cassandra]: https://cassandra.apache.org
-[cpp]: https://docs.microsoft.com/ru-ru/dotnet/csharp
+[cpp]: https://docs.microsoft.com/ru-ru/cpp
 [steamVR]: https://store.steampowered.com/app/250820/SteamVR
