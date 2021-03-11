@@ -3,6 +3,7 @@
 [<img align="left" alt="Delivery-Klad | VK" width="30px" src="files/vk.png" />][vk]
 [<img align="left" alt="Delivery-Klad | Steam" width="30px" src="files/steam.png" />][steam]
 [<img align="left" alt="Delivery-Klad | Discord" width="30px" src="files/discord.png" />][discord]
+[<img align="left" alt="Delivery-Klad | GitHub" width="30px" src="files/github.png" />][github]
 <br />
 
 ### Languages and Tools
@@ -16,7 +17,6 @@
 [<img align="left" alt="C++" width="26px" src="files/cpp.png" />][cpp]
 [<img align="left" alt="Python" width="26px" src="files/python.png" />][python]
 [<img align="left" alt="GitKraken" width="26px" src="files/gitkraken.png" />][gitkraken]
-[<img align="left" alt="GitHub" width="26px" src="files/github.png" />][github]
 <br />
 
 ### Databases
