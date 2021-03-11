@@ -7,16 +7,16 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt="Visual Studio 2019" width="26px" src="files/visualstudio.png" />][vs2019]
-[<img align="left" alt="PyCharm 2019" width="26px" src="files/pycharm.png" />][pycharm]
-[<img align="left" alt="Idea" width="26px" src="files/idea.png" />][idea]
-[<img align="left" alt="Unity" width="26px" src="files/unity.png" />][unity]
-[<img align="left" alt="SteamVR" width="26px" src="files/steamvr.png" />][steamVR]
-[<img align="left" alt="C#" width="26px" src="files/csharp.png" />][charp]
-[<img align="left" alt="Java" width="26px" src="files/java.png" />][java]
-[<img align="left" alt="C++" width="26px" src="files/cpp.png" />][cpp]
-[<img align="left" alt="Python" width="26px" src="files/python.png" />][python]
-[<img align="left" alt="GitKraken" width="26px" src="files/gitkraken.png" />][gitkraken]
+[<img align="left" alt="SteamVR" width="30px" src="files/steamvr.png" />][steamVR]
+[<img align="left" alt="Visual Studio 2019" width="30px" src="files/visualstudio.png" />][vs2019]
+[<img align="left" alt="PyCharm 2019" width="30px" src="files/pycharm.png" />][pycharm]
+[<img align="left" alt="Idea" width="30px" src="files/idea.png" />][idea]
+[<img align="left" alt="Unity" width="30px" src="files/unity.png" />][unity]
+[<img align="left" alt="C#" width="30px" src="files/csharp.png" />][charp]
+[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
+[<img align="left" alt="C++" width="30px" src="files/cpp.png" />][cpp]
+[<img align="left" alt="Python" width="30px" src="files/python.png" />][python]
+[<img align="left" alt="GitKraken" width="30px" src="files/gitkraken.png" />][gitkraken]
 <br />
 
 ### Databases
