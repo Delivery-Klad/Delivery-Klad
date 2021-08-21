@@ -1,4 +1,3 @@
-### Contact with me
 [<img align="left" alt="Delivery-Klad | Telegram" width="30px" src="files/telegram.png" />][telegram]
 [<img align="left" alt="Delivery-Klad | VK" width="30px" src="files/vk.png" />][vk]
 [<img align="left" alt="Delivery-Klad | Steam" width="30px" src="files/steam.png" />][steam]
@@ -40,26 +39,6 @@
 <div align="center">
 <img src="files/loading.gif" width="40" height="40">
 </div>
-<!--
-<details open>
-<summary>Test</summary>
-<br>
-    <a href="https://cassandra.apache.org">
-        <img align="left" alt="Cassandra" width="26px" src="files/apachecassandra.png">
-    </a>
-</details>
--->
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [telegram]: https://t.me/Delivery_Klad
 [vk]: https://vk.com/delivery_klad
