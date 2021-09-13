@@ -36,6 +36,12 @@
 <img align="top" alt="Github Stats" src="https://readme-stats.delivery-klad.vercel.app/api?username=delivery-klad&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </details>
 
+<details>
+    <summary><b>Wakatime</b></summary>
+    <br>
+<img align="center" alt="Wakatime" src="https://wakatime.com/share/@1d146598-52ba-4ddc-8d26-fcd9692d0faa/ff869c18-7b84-4007-b457-7ab3195aee0f.svg" />
+</details>
+
 <div align="center">
 <img src="files/loading.gif" width="40" height="40">
 </div>
