@@ -39,7 +39,7 @@
 <details>
     <summary><b>Wakatime</b></summary>
     <br>
-<img align="center" alt="Wakatime" src="https://wakatime.com/share/@1d146598-52ba-4ddc-8d26-fcd9692d0faa/ff869c18-7b84-4007-b457-7ab3195aee0f.svg" />
+    <a href="https://wakatime.com/@Delivery_Klad"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delivery_Klad"></a>
 </details>
 
 <div align="center">
