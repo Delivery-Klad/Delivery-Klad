@@ -5,16 +5,19 @@
 [<img align="left" alt="Delivery-Klad | GitHub" width="30px" src="files/github.png" />][github]
 <br />
 
-### Languages and Tools
+### Languages
+[<img align="left" alt="C#" width="32px" src="files/csharp.png" />][charp]
+[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
+[<img align="left" alt="C++" width="32px" src="files/cpp.png" />][cpp]
+[<img align="left" alt="Python" width="30px" src="files/python.png" />][python]
+<br />
+
+### Tools
 [<img align="left" alt="SteamVR" width="32px" src="files/steamvr.png" />][steamVR]
 [<img align="left" alt="Visual Studio 2019" width="32px" src="files/visualstudio.png" />][vs2019]
 [<img align="left" alt="PyCharm 2019" width="29px" src="files/pycharm.png" />][pycharm]
 [<img align="left" alt="Idea" width="29px" src="files/idea.png" />][idea]
 [<img align="left" alt="Unity" width="30px" src="files/unity.png" />][unity]
-[<img align="left" alt="C#" width="32px" src="files/csharp.png" />][charp]
-[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
-[<img align="left" alt="C++" width="32px" src="files/cpp.png" />][cpp]
-[<img align="left" alt="Python" width="30px" src="files/python.png" />][python]
 [<img align="left" alt="GitKraken" width="30px" src="files/gitkraken.png" />][gitkraken]
 <br />
 
