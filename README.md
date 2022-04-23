@@ -27,12 +27,12 @@
 [<img align="left" alt="SQLite" width="30px" src="files/sqlite.png" />][sqlite]
 [<img align="left" alt="Cassandra" width="30px" src="files/apachecassandra.png" />][cassandra]
 <br />
-
+<!--
 ### Spotify now playing
 <a href="https://now-playing.delivery-klad.vercel.app/now-playing?open">
     <img src="https://now-playing.delivery-klad.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-
+-->
 <details>
     <summary><b>Stats</b></summary>
     <br>
