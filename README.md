@@ -6,10 +6,13 @@
 <br />
 
 ### Languages
-[<img align="left" alt="C#" width="32px" src="files/csharp.png" />][charp]
-[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
-[<img align="left" alt="C++" width="32px" src="files/cpp.png" />][cpp]
 [<img align="left" alt="Python" width="30px" src="files/python.png" />][python]
+[<img align="left" alt="JavaScript" width="30px" src="files/js.png" />][js]
+[<img align="left" alt="HTML" width="30px" src="files/html.png" />][html]
+[<img align="left" alt="CSS" width="30px" src="files/css.png" />][css]
+[<img align="left" alt="C#" width="32px" src="files/csharp_new.png" />][charp]
+[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
+[<img align="left" alt="C++" width="32px" src="files/cpp_new.png" />][cpp]
 <br />
 
 ### Tools
@@ -66,5 +69,10 @@
 [pgsql]: https://www.postgresql.org
 [sqlite]: https://www.sqlite.org
 [cassandra]: https://cassandra.apache.org
+[redis]: https://redis.io
 [cpp]: https://docs.microsoft.com/ru-ru/cpp
 [steamVR]: https://store.steampowered.com/app/250820/SteamVR
+[js]: https://www.javascript.com
+[html]: https://t.me/Delivery_Klad
+[css]: https://t.me/Delivery_Klad
+[rabbitmq]: https://www.rabbitmq.com
