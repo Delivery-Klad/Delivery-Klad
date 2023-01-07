@@ -54,7 +54,7 @@
 
 [telegram]: https://t.me/Delivery_Klad
 [vk]: https://vk.com/delivery_klad
-[steam]: https://steamcommunity.com/id/DakFadeev
+[steam]: https://steamcommunity.com/id/DeliveryKlad
 [discord]: https://discord.gg/6J5H3hc
 [vs2019]: https://visualstudio.microsoft.com
 [pycharm]: https://www.jetbrains.com/ru-ru/pycharm
