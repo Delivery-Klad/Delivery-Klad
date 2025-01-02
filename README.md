@@ -11,25 +11,25 @@
 [<img align="left" alt="HTML" width="30px" src="files/html.png" />][html]
 [<img align="left" alt="CSS" width="30px" src="files/css.png" />][css]
 [<img align="left" alt="C#" width="32px" src="files/csharp_new.png" />][charp]
-[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
 [<img align="left" alt="C++" width="32px" src="files/cpp_new.png" />][cpp]
+[<img align="left" alt="Java" width="30px" src="files/java.png" />][java]
 <br />
 
 ### Tools
-[<img align="left" alt="SteamVR" width="32px" src="files/steamvr.png" />][steamVR]
-[<img align="left" alt="Visual Studio 2019" width="32px" src="files/visualstudio.png" />][vs2019]
+[<img align="left" alt="GitKraken" width="30px" src="files/gitkraken.png" />][gitkraken]
 [<img align="left" alt="PyCharm 2019" width="29px" src="files/pycharm.png" />][pycharm]
 [<img align="left" alt="Idea" width="29px" src="files/idea.png" />][idea]
+[<img align="left" alt="Visual Studio 2019" width="32px" src="files/visualstudio.png" />][vs2019]
 [<img align="left" alt="Unity" width="30px" src="files/unity.png" />][unity]
-[<img align="left" alt="GitKraken" width="30px" src="files/gitkraken.png" />][gitkraken]
+[<img align="left" alt="SteamVR" width="32px" src="files/steamvr.png" />][steamVR]
 <br />
 
 ### Databases
 [<img align="left" alt="MYSQL" width="30px" src="files/mysql.png" />][mysql]
 [<img align="left" alt="PostgreSQL" width="30px" src="files/postgresql.png" />][pgsql]
-[<img align="left" alt="SQLite" width="30px" src="files/sqlite.png" />][sqlite]
-[<img align="left" alt="Cassandra" width="30px" src="files/apachecassandra.png" />][cassandra]
 [<img align="left" alt="Redis" width="30px" src="files/redis.png" />][redis]
+[<img align="left" alt="Cassandra" width="30px" src="files/apachecassandra.png" />][cassandra]
+[<img align="left" alt="SQLite" width="30px" src="files/sqlite.png" />][sqlite]
 <br />
 <!--
 ### Spotify now playing
