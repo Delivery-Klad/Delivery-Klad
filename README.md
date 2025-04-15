@@ -25,11 +25,11 @@
 <br />
 
 ### Databases
-[<img align="left" alt="MYSQL" width="30px" src="files/mysql.png" />][mysql]
 [<img align="left" alt="PostgreSQL" width="30px" src="files/postgresql.png" />][pgsql]
+[<img align="left" alt="MYSQL" width="30px" src="files/mysql.png" />][mysql]
+[<img align="left" alt="SQLite" width="30px" src="files/sqlite.png" />][sqlite]
 [<img align="left" alt="Redis" width="30px" src="files/redis.png" />][redis]
 [<img align="left" alt="Cassandra" width="30px" src="files/apachecassandra.png" />][cassandra]
-[<img align="left" alt="SQLite" width="30px" src="files/sqlite.png" />][sqlite]
 <br />
 <!--
 ### Spotify now playing
